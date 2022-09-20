@@ -34,7 +34,6 @@ public class Nasabah {
 
     @Override
     public String toString() {
-        return "Nasabah{" + "namaAwal = " + namaAwal + ", namaAkhir = " + namaAkhir + ", tabungan = "
-                + tabungan.getSaldo() + '}';
+        return "Nasabah{" + "namaAwal = " + namaAwal + ", namaAkhir = " + namaAkhir + ", tabungan = " + tabungan.getSaldo() + '}';
     }
 }
