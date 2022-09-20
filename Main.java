@@ -1,6 +1,5 @@
 public class Main {
     public static void main(String args[]) {
-        //int tmp, tmp2;
         boolean status;
 
         // Nasabah 1
